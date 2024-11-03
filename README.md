@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Marco Ponce</h1>
-<h3 align="center">A passionate Computer Science enthusiast and developer from [Your Location]</h3>
+<h3 align="center">Computer Science Undergraduate, at Seton Hall University</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="400" height="200"/>
+  <img src=https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid width="300" height="300"/>
 </p>
 
 ---
 
-<h2 align="center"> 🛠️ My Tech Stack</h2>
+<h2 align="center"> 🛠️ Languages/Applications </h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Code-Racket-informational?style=for-the-badge&logo=racket&color=maroon" />
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=orange" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=blue" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=yellow" />
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&color=blue" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&color=orange" />
+  <img src="https://img.shields.io/badge/Code-Lua-informational?style=for-the-badge&logo=lua&color=skyblue" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&color=black" />
+  <img src="https://img.shields.io/badge/Tools-Excel-informational?style=for-the-badge&logo=microsoftexcel&color=green" />
 </p>
+
 
 ---
 
@@ -26,30 +29,9 @@
 
 ---
 
-<h2 align="center">✨ Featured Projects</h2>
+<h2 align="center">✨ Few Projects</h2>
 
-- **[Project 1](https://github.com/YourUsername/Project1)**: A cool project that does X, Y, and Z.
-- **[Project 2](https://github.com/YourUsername/Project2)**: An interesting tool I built to solve ABC problem.
-
----
-
-<h2 align="center"> 🔗 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your.email@example.com" target="blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- **[Aliens-Attack-2](https://github.com/poncema4/Aliens-Attack-2)**: Sub-version of Space Invader.
+- **[N-Puzzle](https://github.com/poncema4/N-Puzzle)**: AI assisted N-puzzle game.
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
-</p>
-
----
-
-*Thanks for stopping by! Feel free to reach out or check out my projects.* 😊
