@@ -32,5 +32,6 @@
 
 - **[Aliens-Attack-2](https://github.com/poncema4/Aliens-Attack-2)**: Sub-version of Space Invader.
 - **[N-Puzzle](https://github.com/poncema4/N-Puzzle)**: AI assisted N-puzzle game.
-
+- **[Graph-Coloring-Problem](https://github.com/poncema4/Graph-Coloring-Problem)**: Get solutions to edges having nodes that do not have the same color as it's neighbors.
+  
 ---
