@@ -4,7 +4,7 @@
 <p align="center">
   <img src=https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid width="300" height="300"/>
 </p>
-
+   
 ---
 
 <h2 align="center"> 🛠️ Languages/Applications </h2>
