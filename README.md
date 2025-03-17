@@ -23,7 +23,7 @@
 <h2 align="center"> 📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-o2b8-poncema4s-projects.vercel.app/api/top-langs/?username=poncema4&theme=tokyonight&count-private=true"/>
+
 </p>
 
 ---
