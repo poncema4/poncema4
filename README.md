@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco Ponce</h1>
 <h3 align="center">Computer Science Undergraduate Student, at Seton Hall University</h3>
 
-<p align="center">
-  <img src=https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid width="300" height="300"/>
-</p>
-
 ---
 
 <h2 align="center"> 🛠️ Languages/Applications </h2>
