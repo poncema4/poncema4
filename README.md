@@ -8,10 +8,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Racket-informational?style=for-the-badge&logo=racket&color=maroon" />
   <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=orange" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=blue" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=darkblue" />
   <img src="https://img.shields.io/badge/Code-Lua-informational?style=for-the-badge&logo=lua&color=skyblue" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&color=black" />
-  <img src="https://img.shields.io/badge/Tools-Excel-informational?style=for-the-badge&logo=microsoftexcel&color=green" />
+  <img src="https://img.shields.io/badge/Tools-API-informational?style=for-the-badge&logo=api&color=lightgray" />
+  <img src="https://img.shields.io/badge/Tools-AWS-informational?style=for-the-badge&logo=amazonaws&color=purple" />
+  <img src="https://img.shields.io/badge/Tools-Azure-informational?style=for-the-badge&logo=microsoftazure&color=teal" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=black" />
+  <img src="https://img.shields.io/badge/OS-Windows 10/11-informational?style=for-the-badge&logo=windows&color=blue" />
 </p>
 
 ---
@@ -26,8 +29,8 @@
 
 <h2 align="center">✨ Few Projects</h2>
 
-- **[Aliens-Attack-2](https://github.com/poncema4/Aliens-Attack-2)**: Sub-version of Space Invader.
-- **[N-Puzzle](https://github.com/poncema4/N-Puzzle)**: AI assisted N-puzzle game.
+- **[Chat Bot](https://github.com/poncema4/Chat-Bot)**: Interactive chat bot that provides assistance to answer any questions that the user may have.
+- **[N-Puzzle](https://github.com/poncema4/N-Puzzle)**: AI assisted N-puzzle game that helps the user solve the puzzle in the least amount of moves needed.
 - **[Graph-Coloring-Problem](https://github.com/poncema4/Graph-Coloring-Problem)**: Get solutions to edges having nodes that do not have the same color as it's neighbors.
-- **[OpenAI-API](https://github.com/poncema4/OpenAI-API)**: Using OpenAI's API and Canvas's API to get the latest discussion post and automatically reply using Command Prompt
+- **[Puzzle-API](https://github.com/poncema4/Puzzle-API)**: Uses OpenAI's API to generate a scrambled image described by the user and calculate how much time it takes the user to put the pieces in the correct order.
 ---
