@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Code-Racket-informational?style=for-the-badge&logo=racket&color=9F1D20" />
   <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=openjdk&color=ED8B00" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB" />
-  <img src="https://img.shields.io/badge/Code-Lua-informational?style=for-the-badge&logo=lua&color=2C2D72" />
+  <img src="https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=mysql&color=336791" />
   <img src="https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&color=E34F26" />
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&color=1572B6" />
