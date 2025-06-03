@@ -10,8 +10,13 @@
   <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB" />
   <img src="https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=mysql&color=336791" />
   <img src="https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&color=3178C6" />
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&color=E34F26" />
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&color=1572B6" />
+  <img src="https://img.shields.io/badge/Tools-React-informational?style=for-the-badge&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Tools-Next.js-informational?style=for-the-badge&logo=next.js&color=000000" />
+  <img src="https://img.shields.io/badge/Tools-TailwindCSS-informational?style=for-the-badge&logo=tailwind-css&color=06B6D4" />
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ED" />
   <img src="https://img.shields.io/badge/Tools-FastAPI-informational?style=for-the-badge&logo=fastapi&color=008080" />
   <img src="https://img.shields.io/badge/Tools-AWS-informational?style=for-the-badge&logo=amazon-aws&color=232F3E" />
   <img src="https://img.shields.io/badge/Tools-Azure-informational?style=for-the-badge&logo=microsoft-azure&color=0078D4" />
@@ -34,4 +39,3 @@
 - **[N-Puzzle](https://github.com/poncema4/N-Puzzle)**: AI assisted N-puzzle game that helps the user solve the puzzle in the least amount of moves needed.
 - **[Graph-Coloring-Problem](https://github.com/poncema4/Graph-Coloring-Problem)**: Get solutions to edges having nodes that do not have the same color as it's neighbors.
 - **[Puzzle-API](https://github.com/poncema4/Puzzle-API)**: Uses OpenAI's API to generate a scrambled image described by the user and calculate how much time it takes the user to put the pieces in the correct order.
----
