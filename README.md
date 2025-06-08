@@ -32,7 +32,7 @@
 </p>
 
 ---
-
+ 
 <h2 align="center">✨ Few Projects</h2>
 
 - **[Chat Bot](https://github.com/poncema4/Chat-Bot)**: Interactive chat bot that provides assistance to answer any questions that the user may have.
