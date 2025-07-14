@@ -35,7 +35,8 @@
  
 <h2 align="center">✨ Few Projects</h2>
 
-- **[Chat Bot](https://github.com/poncema4/Chat-Bot)**: Interactive chat bot that provides assistance to answer any questions that the user may have.
-- **[N-Puzzle](https://github.com/poncema4/N-Puzzle)**: AI assisted N-puzzle game that helps the user solve the puzzle in the least amount of moves needed.
-- **[Graph-Coloring-Problem](https://github.com/poncema4/Graph-Coloring-Problem)**: Get solutions to edges having nodes that do not have the same color as it's neighbors.
+- **[Marcode-AI](https://github.com/poncema4/Marcode-AI)**: A SaaS platform that is an AI-powered website builder that instantly creates customizable websites from a single prompt. Just describe your vision to the AI and it will create the website within seconds.
+- **[Multi-tenant Ecommerce](https://github.com/poncema4/multitenant-ecommerce)**: A full-featured e-commerce marketplace platform that is built for scalability and performace for user registration, product listings, purchases, order management, and secure checkout.
+- **[Fraud Detection System](https://github.com/poncema4/Fraud-Detection-System)**: System supporting real-time flagging of potentially fraudulent transactions and provides reports for further investigation.
+- **[GoPirate](https://github.com/poncema4/GoPirate)**: Multi-player game with a chat feature included where players battle and fight till the last man wins.
 - **[Puzzle-API](https://github.com/poncema4/Puzzle-API)**: Uses OpenAI's API to generate a scrambled image described by the user and calculate how much time it takes the user to put the pieces in the correct order.
