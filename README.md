@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&color=3178C6" />
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&color=E34F26" />
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&color=1572B6" />
-  <img src="https://img.shields.io/badge/Tools-React-informational?style=for-the-badge&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Tools-React.js-informational?style=for-the-badge&logo=react&color=61DAFB" />
   <img src="https://img.shields.io/badge/Tools-Next.js-informational?style=for-the-badge&logo=next.js&color=000000" />
   <img src="https://img.shields.io/badge/Tools-TailwindCSS-informational?style=for-the-badge&logo=tailwind-css&color=06B6D4" />
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ED" />
