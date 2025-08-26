@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=000000" />
   <img src="https://img.shields.io/badge/OS-Windows%2010/11-informational?style=for-the-badge&logo=windows&color=0078D6" />
 </p>
- 
+
 ---
 
 <h2 align="center"> 📈 GitHub Stats</h2>
