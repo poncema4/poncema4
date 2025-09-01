@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Marco Ponce</h1>
-
 <h2 align="center"> 💬 About Me </h2>
 Hello! I’m Marco, a Senior Computer Science student passionate about technology, software systems, and innovation. I enjoy building projects and creating applications that people find useful. 
 I have experience leading backend development for multi-user platforms, creating real-time APIs with LangChain and Redis, and deploying cloud-based infrastructure with Docker and Kubernetes. 
