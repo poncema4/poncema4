@@ -34,7 +34,7 @@ My goal is to deepen my technical skills in data and software engineering and co
 
 <h2 align="center"> 📈 GitHub Stats </h2>
 <p align="center">
-  <img src="https://github-readme-stats-working-livid.vercel.app/api/top-langs/?username=poncema4&theme=tokyonight&count-private=true"/>
+  <img src="https://github-readme-stats-working-livid.vercel.app/api/top-langs/?username=poncema4&theme=tokyonight&count_private=true"/>
   <br><br>
   <img src="https://github-readme-stats-working-livid.vercel.app/api?username=poncema4&show_icons=true&theme=tokyonight"/>
 </p>
