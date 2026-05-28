@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco Ponce</h1>
 
 <h2 align="center"> 💬 About Me </h2>
-Hello! I’m Marco, a Senior Computer Science student passionate about technology, software systems, and innovation. I enjoy building projects and creating applications that people find useful. 
-I have experience leading backend development for multi-user platforms, creating real-time APIs with LangChain and Redis, and deploying cloud-based infrastructure with Docker and Kubernetes. 
-I’ve also worked as a Teaching Assistant and Research Assistant, helping students improve their programming skills while refining my expertise in software engineering, cloud infrastructure, and API development. 
-My goal is to deepen my technical skills in data and software engineering and contribute meaningful value to impactful teams.
+Hello! I'm Marco, a Computer Science graduate from Seton Hall University passionate about cybersecurity, AI, and building software that solves real problems.
+I have experience leading backend development for multi-user platforms, building real-time APIs with LangChain and Redis, and deploying cloud infrastructure with Docker and Kubernetes.
+Currently interning at Arcova as a Cybersecurity Consulting Intern on the AI team, supporting Raytheon/RTX with AI-driven security initiatives. Following my internship, I'll be pursuing my M.S. in Cybersecurity at Seton Hall University.
+My goal is to grow at the intersection of AI and cybersecurity and contribute to teams building resilient, impactful technologies.
 </h2>
 
 <h2 align="center"> 🛠️ Languages & Tools </h2>
