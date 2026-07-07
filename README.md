@@ -11,7 +11,6 @@ Currently interning at Arcova as a Cybersecurity Consulting Intern on the AI tea
 
   <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB" />
   <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=openjdk&color=ED8B00" />
-  <img src="https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&color=A8B9CC" />
   <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&color=00599C" />
   <img src="https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&color=3178C6" />
