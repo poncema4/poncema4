@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Ponce</h1>
 
 <h2 align="center"> 💬 About Me </h2>
-Hello! I'm Marco, a Computer Science graduate from Seton Hall University passionate about cybersecurity, AI, and building software that solves real problems. I have experience leading backend development for multi-user platforms, building real-time APIs with LangChain and Redis,
-and deploying cloud infrastructure with Docker and Kubernetes. Currently interning at Arcova as a Cybersecurity Consulting Intern on the AI team, where I've had the opportunity to architect secure, cloud-native AI systems and build agentic research pipelines that help the team 
-work smarter. My goal is to grow at the intersection of AI and cybersecurity and contribute to teams building resilient, impactful technologies.
+Hello! I'm Marco, a Computer Science graduate from Seton Hall University passionate about cybersecurity, AI, and building software that solves real problems. I have experience leading backend development for multi-user platforms, building real-time APIs with LangChain and Redis, and deploying cloud infrastructure with Docker and Kubernetes. I recently completed a Cybersecurity Consulting Internship at Arcova on the AI team, where I architected secure, cloud-native AI systems and built agentic research pipelines that helped the team work smarter. I'm actively looking for full-time opportunities at the intersection of AI and cybersecurity, where I can help build resilient, impactful technologies.
 </h2>
 
 <h2 align="center"> 🛠️ Languages & Tools </h2>
