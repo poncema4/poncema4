@@ -1,8 +1,30 @@
 <h1 align="center">Hi 👋, I'm Marco Ponce</h1>
 
-<h2 align="center"> 💬 About Me </h2>
-Hello! I'm Marco, a Computer Science graduate from Seton Hall University passionate about cybersecurity, AI, and building software that solves real problems. I have experience leading backend development for multi-user platforms, building real-time APIs with LangChain and Redis, and deploying cloud infrastructure with Docker and Kubernetes. I recently completed a Cybersecurity Consulting Internship at Arcova on the AI team, where I architected secure, cloud-native AI systems and built agentic research pipelines that helped the team work smarter. I'm actively looking for full-time opportunities at the intersection of AI and cybersecurity, where I can help build resilient, impactful technologies.
-</h2>
+<h3 align="center">
+AI Engineer • AI/LLMs & Agentic AI • Cybersecurity Consultant
+</h3>
+
+<h2 align="center">💬 About Me</h2>
+
+<p>
+Hello! I'm Marco, a Computer Science graduate from Seton Hall University with a passion for technology, cybersecurity, AI, and building solutions that solve real-world problems.
+</p>
+
+<p>
+My programming journey began at age 10, experimenting with code and making video games. That early curiosity grew into a passion for engineering high-performance software systems, AI pipelines, and security-focused applications.
+</p>
+
+<p>
+Throughout my undergraduate career, I led backend development for multi-user platforms, built real-time APIs using LangChain and Redis, and deployed cloud-based infrastructure with Docker and Kubernetes. I also worked alongside professors on research published at ACM conferences and served as a Teaching Assistant and Research Assistant.
+</p>
+
+<p>
+In Summer 2026, I worked as a Cybersecurity Consulting Intern at Arcova on the AI team, where I helped build secure, cloud-native AI systems, including keyless authentication for LLM inference and agentic research pipelines.
+</p>
+
+<p>
+I'm currently pursuing my <b>M.S. in Cybersecurity at Seton Hall University</b> and am interested in full-time opportunities in <b>cybersecurity, security engineering, and AI security</b>.
+</p>
 
 <h2 align="center"> 🛠️ Languages & Tools </h2>
 <p align="center">
