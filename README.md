@@ -41,7 +41,7 @@ I'm currently pursuing my <b>M.S. in Cybersecurity at Seton Hall University</b> 
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ED" />
   <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=326CE5" />
   <img src="https://img.shields.io/badge/Tools-AWS-informational?style=for-the-badge&logo=amazon-aws&color=232F3E" />
-  <img src="https://img.shields.io/badge/Tools-GCP-informational?style=for-the-badge&logo=google-cloud&color=4285F4" />
+  <img src="https://img.shields.io/badge/Tools-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4" />
   <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4169E1" />
   <img src="https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&color=47A248" />
   <img src="https://img.shields.io/badge/Tools-Redis-informational?style=for-the-badge&logo=redis&color=DC382D" />
