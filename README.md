@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Ponce</h1>
 
 <h3 align="center">
-AI Engineer • AI/LLMs & Agentic AI • Cybersecurity Consultant
+AI Engineer • Application Security • Cybersecurity Consulting
 </h3>
 
 <h2 align="center">💬 About Me</h2>
@@ -19,11 +19,11 @@ Throughout my undergraduate career, I led backend development for multi-user pla
 </p>
 
 <p>
-In Summer 2026, I worked as a Cybersecurity Consulting Intern at Arcova on the AI team, where I helped build secure, cloud-native AI systems, including keyless authentication for LLM inference and agentic research pipelines.
+Today, I'm a Cybersecurity Consulting Intern at Arcova on the AI team, where I drove an AI platform to production on Azure behind Entra ID SSO, closed a SOC 2 gap by moving Claude on Vertex AI to IAM-based keyless access, and compressed client research time by 95% with an agentic LangChain pipeline.
 </p>
 
 <p>
-I'm currently pursuing my <b>M.S. in Cybersecurity at Seton Hall University</b> and am interested in full-time opportunities in <b>cybersecurity, security engineering, and AI security</b>.
+I'm currently pursuing my <b>M.S. in Cybersecurity at Seton Hall University</b> and am open to full-time <b>Application Security Engineer</b>, <b>Cybersecurity Consulting</b>, and <b>AI Engineer</b> roles.
 </p>
 
 <h2 align="center"> 🛠️ Languages & Tools </h2>
@@ -36,12 +36,14 @@ I'm currently pursuing my <b>M.S. in Cybersecurity at Seton Hall University</b> 
   <img src="https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=mysql&color=336791" />
   <img src="https://img.shields.io/badge/Tools-React.js-informational?style=for-the-badge&logo=react&color=61DAFB" />
   <img src="https://img.shields.io/badge/Tools-Next.js-informational?style=for-the-badge&logo=next.js&color=000000" />
+  <img src="https://img.shields.io/badge/Tools-FastAPI-informational?style=for-the-badge&logo=fastapi&color=009688" />
   <img src="https://img.shields.io/badge/Tools-LangChain-informational?style=for-the-badge&logo=chainlink&color=1C1C1C" />
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&color=F05032" />
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ED" />
   <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=326CE5" />
   <img src="https://img.shields.io/badge/Tools-AWS-informational?style=for-the-badge&logo=amazon-aws&color=232F3E" />
   <img src="https://img.shields.io/badge/Tools-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4" />
+  <img src="https://img.shields.io/badge/Tools-Vertex%20AI-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4" />
   <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4169E1" />
   <img src="https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&color=47A248" />
   <img src="https://img.shields.io/badge/Tools-Redis-informational?style=for-the-badge&logo=redis&color=DC382D" />
